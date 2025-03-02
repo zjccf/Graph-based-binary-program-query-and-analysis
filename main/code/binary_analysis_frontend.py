@@ -331,7 +331,7 @@ class SPDGBuilder:
 # 使用示例
 if __name__ == "__main__":
     config = SPDGConfiguration(
-        binary_path="/home/zjc/桌面/绿盟/bank",
+        binary_path="/home/bank",
         cfg_type="emulated",
         symbolic_enabled=True,
         data_dep_enabled=True,
